@@ -1,17 +1,10 @@
-.name {
-    color: blue
-}
 
-body {
-    background-color: lightgreen
-}
 
-.imabox {
-    height: 50px;
-    width: 50px;
-    padding: 5px;
-    margin: 2px;
-    border: 8px solid purple;
-    background-color: blue;
-    display: flex;
+
+
+#a {
+    color: black ;
+}
+#b {
+    color:blueviolet;
 }
